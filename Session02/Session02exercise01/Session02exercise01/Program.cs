@@ -6,7 +6,11 @@ namespace Session02exercise01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hej världen!");
+
+            var integer = 0;
+
+            Console.WriteLine("integer is" + integer.ToString());
         }
     }
 }
